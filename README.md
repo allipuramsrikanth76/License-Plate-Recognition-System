@@ -1,1 +1,1 @@
-# License-Plate-Recognition-System
+Image -> plate Detection -> Crop Plate -> OCR -> JSON Output + Image
